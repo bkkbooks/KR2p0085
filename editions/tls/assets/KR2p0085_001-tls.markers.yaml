@@ -29,7 +29,7 @@ markers:
   - {type: punctuation, offset: 19, content: '?', id: KR2p0085_tls_001-bkkpn17}
   - {type: punctuation, offset: 19, content: ',', id: KR2p0085_tls_001-bkkpn18}
   - {type: 'tls:seg', offset: 19, content: '', id: KR2p0085_tls_001-1a.6}
-  - {type: 'voice:problem', offset: 19, length: 0, id: KR2p0085_tls_001-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 19 with no matching '('}
+  - {type: 'voice:problem', offset: 19, length: 0, id: KR2p0085_tls_001-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 19 with no matching '('}
   - {type: 'tls:seg', offset: 24, content: '', id: KR2p0085_tls_001-1a.7}
   - {type: punctuation, offset: 26, content: '[', id: KR2p0085_tls_001-bkkpn19}
   - {type: punctuation, offset: 26, content: ']', id: KR2p0085_tls_001-bkkpn20}
@@ -697,4 +697,4 @@ markers:
   - {type: punctuation, offset: 719, content: 】, id: KR2p0085_tls_001-bkkpn428}
   - {type: xml-element, offset: 719, content: '', id: KR2p0085_tls_001-bkkxmlele56, name: p, role: close, attrs: {source: 'SHANGBO.JUZHIWANGTIANXIA 9.57.28 (STRIPS 33-34) MACHENGYUAN 9: 233-234 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:b7e01b82d8bc98d79fd96119f5ec6125e543ca66067efb9780d066975777a38e
+hash: sha256:dc61b6d09287da56a570a7ecab713c5b836f9ed5155dbf7c38cea8c03d616a5f
